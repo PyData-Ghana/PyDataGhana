@@ -11,7 +11,7 @@ We encourage all Hobbyist and Data Scientist in Ghana to submodule their repos t
 
 ## Python Version for all projects
 
-Python 3.X (unless stated otherwise)
+Python 3.X (``unless stated otherwise``)
 
 ## Installation for new users
 First install python from [here](https://www.python.org/downloads/) for your respective OS if you haven't. The encouraged version to install would be 3.X. Ones installed, go to the next step.
@@ -19,7 +19,7 @@ First install python from [here](https://www.python.org/downloads/) for your res
 ### For Ipython users
 OS X & Linux & Windows:
 
-Go to [anaconda](https://www.anaconda.com/download/), download for you respective OS, follow instrcutions and install it.
+Go to [anaconda](https://www.anaconda.com/download/), download for your respective OS, follow instrcutions and install it.
 
 ## Development setup
 
@@ -34,7 +34,7 @@ jupyter notebook
 
 PyData Ghana Initiative – [@pydataghana](https://twitter.com/pydataghana) – pydataghana@gmail.com
 
-Distributed under the XYZ license. See ``LICENSE`` for more information.
+Distributed under the PyDataGhana license. See ``LICENSE`` for more information.
 
 [https://github.com/pythonghana/PyDataGhana/license](https://github.com/pythonghana/PyDataGhana)
 
