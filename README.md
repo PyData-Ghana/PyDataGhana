@@ -32,7 +32,7 @@ jupyter notebook
 
 ## Meta
 
-PyData Ghana Initiative – [@pydataghana](https://twitter.com/pydataghana) – pydataghana@gmail.com
+PyData Ghana Initiative – [@pydataghana](https://twitter.com/pydataghana) – pydata@pythonghana.org
 
 Distributed under the PyDataGhana license. See ``LICENSE`` for more information.
 
