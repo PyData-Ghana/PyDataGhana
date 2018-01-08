@@ -40,8 +40,8 @@ Distributed under the PyDataGhana license. See ``LICENSE`` for more information.
 
 ## Projects to starts working on
 
-Titanic dataset: https://www.kaggle.com/c/titanic
-House Prices: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+Titanic dataset: https://www.kaggle.com/c/titanic.
+House Prices: https://www.kaggle.com/c/house-prices-advanced-regression-techniques.
 
 ## Contributing
 
