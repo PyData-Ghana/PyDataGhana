@@ -1,5 +1,5 @@
 # PydataGhana projects
-> This contains submodules of PyData Ghana projects.
+> This contains submodules of PyData Ghana projects. See [Current Projects](#current projects) to begin applying your data science skills with python on some Kaggle data science datasets.
 
 <!-- [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
@@ -38,10 +38,11 @@ Distributed under the PyDataGhana license. See ``LICENSE`` for more information.
 
 [https://github.com/pythonghana/PyDataGhana/license](https://github.com/pythonghana/PyDataGhana)
 
-## Projects to starts working on
+## Current Projects
 
-Titanic dataset: https://www.kaggle.com/c/titanic.
-House Prices: https://www.kaggle.com/c/house-prices-advanced-regression-techniques.
+* Titanic dataset: https://www.kaggle.com/c/titanic.
+
+* House Prices: https://www.kaggle.com/c/house-prices-advanced-regression-techniques.
 
 ## Contributing
 
