@@ -6,7 +6,7 @@
 [![Downloads Stats][npm-downloads]][npm-url] -->
 
 We encourage all Hobbyist and Data Scientist in Ghana to submodule their repos to this so we all share, contribute and learn.
-See [Current Projects](#current projects) to begin applying your data science skills with python on some Kaggle data science datasets.
+See [Current Projects](#current-projects) to begin applying your data science skills with python on some Kaggle data science datasets.
 
 ![](header.png)
 
