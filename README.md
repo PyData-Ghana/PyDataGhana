@@ -21,7 +21,7 @@ Python 3.X (``unless stated otherwise``)
 * [Meta](#meta)
 * [Current Projects](#current-projects)
 * [Beginners](#for-beginners)
-* [Controbuting](#contributing)
+* [Contributing](#contributing)
 
 ## Installation
 
@@ -58,7 +58,7 @@ Distributed under the PyDataGhana license. See ``LICENSE`` for more information.
 
 ## For Beginners
 
-For beginners, please go throught the following resources:
+For beginners, please go through the following resources:
 
 * Introduction to Python (via Pluralsight): https://app.pluralsight.com/library/courses/python-fundamentals/table-of-contents.
 
