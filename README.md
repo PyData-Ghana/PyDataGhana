@@ -56,7 +56,9 @@ Distributed under the PyDataGhana license. See ``LICENSE`` for more information.
 
 * House Prices: https://www.kaggle.com/c/house-prices-advanced-regression-techniques.
 
-## For Beginners ```(Start from here)```
+## For Beginners
+
+For beginners, please go throught the following resources:
 
 * Introduction to Python (via Pluralsight): https://app.pluralsight.com/library/courses/python-fundamentals/table-of-contents.
 
