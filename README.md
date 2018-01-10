@@ -14,7 +14,18 @@ See [Current Projects](#current-projects) to begin applying your data science sk
 
 Python 3.X (``unless stated otherwise``)
 
-## Installation for new users
+# Table of Contents:
+
+* [Installation](#installation)
+* [Development](#development-setup)
+* [Meta](#meta)
+* [Current Projects](#current-projects)
+* [Beginners](#for-beginners)
+* [Controbuting](#contributing)
+
+## Installation
+
+### For new users
 First install python from [here](https://www.python.org/downloads/) for your respective OS if you haven't. The encouraged version to install would be 3.X. Ones installed, go to the next step.
 
 ### For Ipython users
@@ -22,7 +33,7 @@ OS X & Linux & Windows:
 
 Go to [anaconda](https://www.anaconda.com/download/), download for your respective OS, follow instrcutions and install it.
 
-## Development setup
+## Development Setup
 
 After installing anaconda for your respective OS. Go to the working directory for the repo in your terminal(i.e. where you cloned this repo to) and run the following command:
 
@@ -44,6 +55,18 @@ Distributed under the PyDataGhana license. See ``LICENSE`` for more information.
 * Titanic dataset: https://www.kaggle.com/c/titanic.
 
 * House Prices: https://www.kaggle.com/c/house-prices-advanced-regression-techniques.
+
+## For Beginners ```(Start from here)```
+
+* Introduction to Python (via Pluralsight): https://app.pluralsight.com/library/courses/python-fundamentals/table-of-contents.
+
+* Libear Algebra (via Udacity): https://www.udacity.com/course/linear-algebra-refresher-course--ud953.
+
+* Calculus (via Khan Academy): https://www.khanacademy.org/math/calculus-home.
+
+* Inferential Statistics (via Udacity): https://www.udacity.com/course/intro-to-inferential-statistics--ud201.
+
+* Descriptive Statistics (via Udacity): https://www.udacity.com/course/intro-to-descriptive-statistics--ud827.
 
 ## Contributing
 
