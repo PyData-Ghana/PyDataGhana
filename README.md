@@ -62,13 +62,13 @@ For beginners, please go through the following resources:
 
 * Introduction to Python (via Pluralsight): https://app.pluralsight.com/library/courses/python-fundamentals/table-of-contents.
 
-* Libear Algebra (via Udacity): https://www.udacity.com/course/linear-algebra-refresher-course--ud953.
-
-* Calculus (via Khan Academy): https://www.khanacademy.org/math/calculus-home.
+* Descriptive Statistics (via Udacity): https://www.udacity.com/course/intro-to-descriptive-statistics--ud827.
 
 * Inferential Statistics (via Udacity): https://www.udacity.com/course/intro-to-inferential-statistics--ud201.
 
-* Descriptive Statistics (via Udacity): https://www.udacity.com/course/intro-to-descriptive-statistics--ud827.
+* Libear Algebra (via Udacity): https://www.udacity.com/course/linear-algebra-refresher-course--ud953.
+
+* Calculus (via Khan Academy): https://www.khanacademy.org/math/calculus-home.
 
 ## Contributing
 
