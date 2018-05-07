@@ -28,7 +28,7 @@ Python 3.X (``unless stated otherwise``)
 ### For new users
 First install python from [here](https://www.python.org/downloads/) for your respective OS if you haven't. The encouraged version to install would be 3.X. Ones installed, go to the next step.
 
-### For Ipython users
+### For Jupyter Notebook users
 OS X & Linux & Windows:
 
 Go to [anaconda](https://www.anaconda.com/download/), download for your respective OS, follow instrcutions and install it.
@@ -49,6 +49,10 @@ PyData Ghana Initiative – [@pydataghana](https://twitter.com/pydataghana) – 
 Distributed under the PyDataGhana license. See ``LICENSE`` for more information.
 
 [https://github.com/pythonghana/PyDataGhana/license](https://github.com/pythonghana/PyDataGhana)
+
+## Algorithm Exercises
+
+Please check [exercises/algorithm-exercises](https://github.com/pythonghana/PyDataGhana/exercises/algorithm-exercises)
 
 ## Current Projects
 
