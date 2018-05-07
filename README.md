@@ -19,6 +19,7 @@ Python 3.X (``unless stated otherwise``)
 * [Installation](#installation)
 * [Development](#development-setup)
 * [Meta](#meta)
+* [Exercises on Algorithms](#algorithm-exercises)
 * [Current Projects](#current-projects)
 * [Beginners](#for-beginners)
 * [Contributing](#contributing)
@@ -52,7 +53,7 @@ Distributed under the PyDataGhana license. See ``LICENSE`` for more information.
 
 ## Algorithm Exercises
 
-Please check [exercises/algorithm-exercises](https://github.com/pythonghana/PyDataGhana/exercises/algorithm-exercises)
+Please check [exercises/algorithm-exercises](https://github.com/pythonghana/PyDataGhana/tree/master/exercises/algorithm-exercises)
 
 ## Current Projects
 
