@@ -75,6 +75,10 @@ For beginners, please go through the following resources:
 
 * Calculus (via Khan Academy): https://www.khanacademy.org/math/calculus-home.
 
+*Algorithm Design (via Edx): https://www.edx.org/course/algorithm-design-analysis-pennx-sd3x
+
+*Math of Intelligence by Siraj Raval (via YouTube): https://www.youtube.com/watch?v=xRJCOz3AfYY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D
+
 ## Contributing
 
 1. Fork it (<https://github.com/pythonghana/PyDataGhana/fork>)
